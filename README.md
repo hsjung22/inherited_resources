@@ -1,3 +1,5 @@
+test
+
 ## Deprecation notice
  
 Since Rails 3 came out, I have no longer used Inherited Resources and it is no
